@@ -1,11 +1,11 @@
 ### Code Book - TidyData.txt
 1. **Subject**
-	-The subject that was wearing the device while the measurements were taken. The subject is identified as a number, 1 through 30.                                            
+	The subject that was wearing the device while the measurements were taken. The subject is identified as a number, 1 through 30.                                            
 2. **Activity**                 
-	-Identifies the activity that the subject was performing while the measurement were taken.                                 
+	Identifies the activity that the subject was performing while the measurement were taken.                                 
 3. **Time: Body Acceleration Mean() X Axis**
 	The mean of the time domain for body acceleration along the X axis.                       
-Time: Body Acceleration Mean() Y Axis  
+4. **Time: Body Acceleration Mean() Y Axis** 
 	The mean of the time domain for body acceleration along the y axis.                         
 Time: Body Acceleration Mean() Z Axis
 	The mean of the time domain for body acceleration along the X axis.                          

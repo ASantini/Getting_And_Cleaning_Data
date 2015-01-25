@@ -132,10 +132,15 @@
 66. **Freq: Body Angular Velocity Standard Deviation() Z Axis**
 	The standard deviation of the frequency domain for Body Angular Velocity along the Z axis.
 67. **Freq: Body Angular Velocity MeanFreq() X Axis**
+	The mean frequency of the frequency domain the Body Angular Velocity along the X Axis.
 68. **Freq: Body Angular Velocity MeanFreq() Y Axis**
+	The mean frequency of the frequency domain the Body Angular Velocity along the Y Axis.
 69. **Freq: Body Angular Velocity MeanFreq() Z Axis**
+	The mean frequency of the frequency domain the Body Angular Velocity along the Z Axis.
 70. **Freq: Body Acceleration MagnitudeMean()**
+		The mean frequency of the frequency domain for Body Angular Velocity along the X Axis.
 71. **Freq: Body Acceleration MagnitudeStandard Deviation()**
+		The mean frequency of the frequency domain for Body Angular Velocity along the Y Axis.
 72. **Freq: Body Acceleration MagnitudeMeanFreq()**
 73. **Freq: BodyBody Acceleration JerkMagnitudeMean()**
 74. **Freq: BodyBody Acceleration JerkMagnitudeStandard Deviation()**

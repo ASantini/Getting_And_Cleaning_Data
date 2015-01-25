@@ -1,6 +1,6 @@
 ### Code Book - TidyData.txt
 **Subject**
-	.The subject that was wearing the device while the measurements were taken. The subject is identified as a number, 1 through 30.                                            
+	..The subject that was wearing the device while the measurements were taken. The subject is identified as a number, 1 through 30.                                            
 Activity                     
 	Identifies the activity that the subject was performing while the measurement were taken.                                 
 Time: Body Acceleration Mean() X Axis

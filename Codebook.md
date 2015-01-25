@@ -138,23 +138,40 @@
 69. **Freq: Body Angular Velocity MeanFreq() Z Axis**
 	The mean frequency of the frequency domain the Body Angular Velocity along the Z Axis.
 70. **Freq: Body Acceleration MagnitudeMean()**
-		The mean frequency of the frequency domain for Body Angular Velocity along the X Axis.
+	The mean frequency of the frequency domain for Body Angular Velocity along the X Axis.
 71. **Freq: Body Acceleration MagnitudeStandard Deviation()**
-		The mean frequency of the frequency domain for Body Angular Velocity along the Y Axis.
+	The mean frequency of the frequency domain for Body Angular Velocity along the Y Axis.
 72. **Freq: Body Acceleration MagnitudeMeanFreq()**
+	The mean frequency of the frequency domain for Body Angular Velocity along the Z Axis.
 73. **Freq: BodyBody Acceleration JerkMagnitudeMean()**
+	The mean of the frequency domain for Body Acceleration Jerk Magnitude along the X Axis.
 74. **Freq: BodyBody Acceleration JerkMagnitudeStandard Deviation()**
+	The mean of the frequency domain for Body Acceleration Jerk Magnitude along the Y Axis.
 75. **Freq: BodyBody Acceleration JerkMagnitudeMeanFreq()**
+	The mean of the frequency domain for Body Acceleration Jerk Magnitude along the Z Axis.
 76. **Freq: BodyBody Angular Velocity MagnitudeMean()**
+	The mean of the frequency domain for Body Angular Magnitude.
 77. **Freq: BodyBody Angular Velocity MagnitudeStandard Deviation()**
+	The standard deviation of the frequency domain for Body Angular Velocity Magnitude.
 78. **Freq: BodyBody Angular Velocity MagnitudeMeanFreq()**
+	The mean frequency of the frequency domain for Body Angular Velocity Magnitude.
 79. **Freq: BodyBody Angular Velocity JerkMagnitudeMean()**
+	The mean of the frequency domain for Body Angular Velocity Jerk Magnitude.
 80. **Freq: BodyBody Angular Velocity JerkMagnitudeStandard Deviation()**
+	The standard deviation of the frequency domain for Body Angular Velocity Jerk Magnitude.
 81. **Freq: BodyBody Angular Velocity JerkMagnitudeMeanFreq()**
+	The mean frequency of the frequency domain for Body Angular Velocity Jerk Magnitude.
 82. **angle(tBody Acceleration Mean,gravity)**
+	The angle the mean of Body Acceleration in the time domain.
 83. **angle(tBody Acceleration JerkMean),gravityMean)**
+	The angle the mean of Body Acceleration Jerk in the time domain.
 84. **angle(tBody Angular Velocity Mean,gravityMean)**
+	The angle the mean of Body Angular Velocity in the time domain.
 85. **angle(tBody Angular Velocity JerkMean,gravityMean)**
+	The angle the mean of Body Angular Velocity Jerk in the time domain.
 86. **angle(X,gravityMean)**
+	The angle of the X axis
 87. **angle(Y,gravityMean)**
+	The angle of the Y axis
 88. **angle(Z,gravityMean)**
+	The angle of the Z axis

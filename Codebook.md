@@ -1,22 +1,22 @@
 ### Code Book - TidyData.txt
 1. **Subject**
-	The subject that was wearing the device while the measurements were taken. The subject is identified as a number, 1 through 30.                                            
+ The subject that was wearing the device while the measurements were taken. The subject is identified as a number, 1 through 30.                                            
 2. **Activity**
-	Identifies the activity that the subject was performing while the measurement were taken.                                 
+ Identifies the activity that the subject was performing while the measurement were taken.                                 
 3. **Time: Body Acceleration Mean() X Axis**
-	The mean of the time domain for body acceleration along the X axis.                       
+ The mean of the time domain for body acceleration along the X axis.                       
 4. **Time: Body Acceleration Mean() Y Axis** 
-	The mean of the time domain for body acceleration along the y axis.                         
+ The mean of the time domain for body acceleration along the y axis.                         
 5. **Time: Body Acceleration Mean() Z Axis**
-	The mean of the time domain for body acceleration along the X axis.                          
+ The mean of the time domain for body acceleration along the X axis.                          
 6. **Time: Body Acceleration Standard Deviation() X Axis**
-	The standard deviation of the time domain for body acceleration along the X axis.             
+ The standard deviation of the time domain for body acceleration along the X axis.             
 7. **Time: Body Acceleration Standard Deviation() Y Axis**
- 	The standard deviation of the time domain for body acceleration along the Y axis.          
+ The standard deviation of the time domain for body acceleration along the Y axis.          
 8. **Time: Body Acceleration Standard Deviation() Z Axis**
-	The standard deviation of the time domain for body acceleration along the Z axis.
+ The standard deviation of the time domain for body acceleration along the Z axis.
 9. **Time: Gravity Acceleration Mean() X Axis**
-	The mean of the time domain for Gravity Acceleration along the X axis.                      
+ The mean of the time domain for Gravity Acceleration along the X axis.                      
 Time: Gravity Acceleration Mean() Y Axis     
 	The mean of the time domain for Gravity Acceleration along the Y axis.                  
 Time: Gravity Acceleration Mean() Z Axis      
